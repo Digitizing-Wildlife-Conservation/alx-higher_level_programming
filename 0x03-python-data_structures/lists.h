@@ -11,7 +11,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Holberton project
+ * for ALX Software Engineering project Foundations Second Sprint - Sprint 2
  */
 typedef struct listint_s
 {
